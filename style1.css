@@ -6,6 +6,8 @@
 }
 /* Headr */
 header{
+    background-color: rgb(0, 0,0,0.5);
+    padding: 10px;
     position: fixed;
     left: 0;
     width: 100%;
